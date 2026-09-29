@@ -1,0 +1,15 @@
+SUPPLY AGREEMENT
+
+This Supply Agreement is entered into by Voltwerk Components BV ("Supplier") and Nordwind Bikes GmbH ("Buyer").
+
+1. Effective date and term. This agreement is effective from 2025-03-01 and has an initial term of 36 months, ending on 2028-02-29.
+
+2. Renewal. This agreement renews automatically for 12-month periods unless terminated by either party with at least 90 days' written notice before the end of the term.
+
+3. Payment. The Buyer shall pay each invoice within 45 days of receipt.
+
+4. Liability. The Supplier's liability is limited to 250,000 EUR per contract year.
+
+5. Termination. Either party may terminate for material breach on 60 days' written notice if the breach is not cured.
+
+6. Governing law. This agreement is governed by the laws of Germany.

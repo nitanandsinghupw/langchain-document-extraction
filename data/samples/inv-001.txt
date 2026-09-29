@@ -1,0 +1,23 @@
+BRIGHTLINE OFFICE SUPPLIES GmbH
+Hafenstrasse 12, 20457 Hamburg, Germany
+VAT ID: DE123456789
+
+INVOICE
+
+Invoice No: BL-2025-0417
+Invoice Date: 2025-09-02
+Due Date: 2025-10-02
+
+Bill to: Nordwind Bikes GmbH, Lindenallee 5, 10115 Berlin
+
+Description                         Qty    Unit price    Amount
+Ergonomic office chair               4       289.00      1156.00
+Standing desk frame                  2       412.50       825.00
+Monitor arm, dual                    6        64.00       384.00
+
+Subtotal: 2365.00 EUR
+VAT 19%: 449.35 EUR
+Total: 2814.35 EUR
+
+Payment terms: Net 30
+Please pay to IBAN DE89 3704 0044 0532 0130 00

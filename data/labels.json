@@ -1,0 +1,233 @@
+[
+ {
+  "source": "inv-001.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "auto_approved",
+  "fields": {
+   "invoice_number": "BL-2025-0417",
+   "invoice_date": "2025-09-02",
+   "due_date": "2025-10-02",
+   "vendor_name": "Brightline Office Supplies GmbH",
+   "vendor_vat_id": "DE123456789",
+   "currency": "EUR",
+   "subtotal": "2365.00",
+   "tax_amount": "449.35",
+   "total": "2814.35",
+   "iban": "DE89370400440532013000",
+   "line_items": 3
+  }
+ },
+ {
+  "source": "inv-002.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "auto_approved",
+  "fields": {
+   "invoice_number": "KP-7731",
+   "invoice_date": "2025-08-15",
+   "due_date": "2025-09-14",
+   "vendor_name": "Kettle & Pine Design Ltd",
+   "vendor_vat_id": "GB987654321",
+   "currency": "GBP",
+   "subtotal": "3350.00",
+   "tax_amount": "670.00",
+   "total": "4020.00",
+   "iban": "GB33BUKB20201555555555",
+   "line_items": 2
+  }
+ },
+ {
+  "source": "inv-003.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "needs_review",
+  "fields": {
+   "invoice_number": "VW-88213",
+   "invoice_date": "2025-09-10",
+   "due_date": "2025-10-10",
+   "vendor_name": "Voltwerk Components BV",
+   "vendor_vat_id": "NL123456789B01",
+   "currency": "EUR",
+   "subtotal": "13900.00",
+   "tax_amount": "2919.00",
+   "total": "16919.00",
+   "iban": "NL91ABNA0417164300",
+   "line_items": 2
+  }
+ },
+ {
+  "source": "inv-004.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "needs_review",
+  "fields": {
+   "invoice_number": "SH-2025-112",
+   "invoice_date": "2025-09-18",
+   "due_date": "2025-10-18",
+   "vendor_name": "Spokehaus Logistik GmbH",
+   "vendor_vat_id": "DE811569869",
+   "currency": "EUR",
+   "subtotal": "1460.00",
+   "tax_amount": "277.40",
+   "total": "1737.40",
+   "iban": "DE89370400440532013001",
+   "line_items": 2
+  }
+ },
+ {
+  "source": "inv-005.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "needs_review",
+  "fields": {
+   "invoice_number": "CP-4410",
+   "invoice_date": "2025-09-25",
+   "due_date": null,
+   "vendor_name": "Clearpath IT Services AB",
+   "vendor_vat_id": "SE556677889901",
+   "currency": "EUR",
+   "subtotal": "2610.00",
+   "tax_amount": "0.00",
+   "total": "2610.00",
+   "iban": "SE4550000000058398257466",
+   "line_items": 2
+  }
+ },
+ {
+  "source": "inv-006.txt",
+  "split": "tuned",
+  "document_type": "invoice",
+  "expected_status": "auto_approved",
+  "fields": {
+   "invoice_number": "TM-2025-0093",
+   "invoice_date": "2025-08-29",
+   "due_date": "2025-09-28",
+   "vendor_name": "Trailmark Analytics Inc.",
+   "vendor_vat_id": null,
+   "currency": "USD",
+   "subtotal": "6000.00",
+   "tax_amount": "0.00",
+   "total": "6000.00",
+   "iban": null,
+   "line_items": 2
+  }
+ },
+ {
+  "source": "inv-007.txt",
+  "split": "held_out",
+  "document_type": "invoice",
+  "expected_status": "auto_approved",
+  "fields": {
+   "invoice_number": "2025/0391",
+   "invoice_date": "2025-09-03",
+   "due_date": "2025-10-03",
+   "vendor_name": "Alpenrad Parts AG",
+   "vendor_vat_id": "CHE-123.456.789 MWST",
+   "currency": "CHF",
+   "subtotal": "683.00",
+   "tax_amount": "55.32",
+   "total": "738.32",
+   "iban": "CH9300762011623852957",
+   "line_items": 2
+  }
+ },
+ {
+  "source": "ctr-001.txt",
+  "split": "tuned",
+  "document_type": "contract",
+  "expected_status": "auto_approved",
+  "fields": {
+   "parties": [
+    "Nordwind Bikes GmbH",
+    "Clearpath IT Services AB"
+   ],
+   "effective_date": "2025-01-01",
+   "end_date": "2026-12-31",
+   "auto_renew": true,
+   "renewal_notice_days": 60,
+   "termination_notice_days": 30,
+   "payment_days": 30,
+   "liability_cap": "50000",
+   "governing_law": [
+    "Sweden"
+   ]
+  }
+ },
+ {
+  "source": "ctr-002.txt",
+  "split": "tuned",
+  "document_type": "contract",
+  "expected_status": "needs_review",
+  "fields": {
+   "parties": [
+    "Nordwind Bikes GmbH",
+    "Voltwerk Components BV"
+   ],
+   "effective_date": "2025-06-01",
+   "end_date": "2025-05-31",
+   "auto_renew": false,
+   "renewal_notice_days": null,
+   "termination_notice_days": 30,
+   "payment_days": null,
+   "liability_cap": null,
+   "governing_law": [
+    "Netherlands",
+    "the Netherlands"
+   ]
+  }
+ },
+ {
+  "source": "ctr-003.txt",
+  "split": "tuned",
+  "document_type": "contract",
+  "expected_status": "auto_approved",
+  "fields": {
+   "parties": [
+    "Voltwerk Components BV",
+    "Nordwind Bikes GmbH"
+   ],
+   "effective_date": "2025-03-01",
+   "end_date": "2028-02-29",
+   "auto_renew": true,
+   "renewal_notice_days": 90,
+   "termination_notice_days": 60,
+   "payment_days": 45,
+   "liability_cap": "250000",
+   "governing_law": [
+    "Germany"
+   ]
+  }
+ },
+ {
+  "source": "ctr-004.txt",
+  "split": "held_out",
+  "document_type": "contract",
+  "expected_status": "auto_approved",
+  "fields": {
+   "parties": [
+    "Nordwind Bikes GmbH",
+    "Kettle & Pine Design Ltd"
+   ],
+   "effective_date": "2025-04-01",
+   "end_date": "2025-09-30",
+   "auto_renew": false,
+   "renewal_notice_days": null,
+   "termination_notice_days": 14,
+   "payment_days": 14,
+   "liability_cap": null,
+   "governing_law": [
+    "England",
+    "England and Wales",
+    "English law"
+   ]
+  }
+ },
+ {
+  "source": "memo-001.txt",
+  "split": "tuned",
+  "document_type": "other",
+  "expected_status": "unsupported",
+  "fields": {}
+ }
+]

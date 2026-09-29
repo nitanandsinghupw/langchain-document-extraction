@@ -1,0 +1,10 @@
+Split       Docs  Classified  Routed   Fields  Unsafe auto-approvals
+--------------------------------------------------------------------
+tuned         10        100%    100%     100%                      0
+held_out       2        100%      0%      10%                      0
+all           12        100%     83%      84%                      0
+
+inv-007.txt: status needs_review, wrong fields: invoice_number, invoice_date, due_date, vendor_name, vendor_vat_id, currency, subtotal, tax_amount, total, iban, line_items
+    reason: Extraction failed: Invoice: invalid output after 2 attempts (6 validation errors: currency, invoice_date, invoice_number, subtotal, total)
+ctr-004.txt: status needs_review, wrong fields: parties, effective_date, end_date, auto_renew, termination_notice_days, payment_days, governing_law
+    reason: Extraction failed: Contract: invalid output after 2 attempts (3 validation errors: effective_date, parties, title)

@@ -1,0 +1,22 @@
+VOLTWERK COMPONENTS BV
+Industrieweg 88, 3542 AD Utrecht, Netherlands
+VAT ID: NL123456789B01
+
+INVOICE
+
+Invoice No: VW-88213
+Invoice Date: 2025-09-10
+Due Date: 2025-10-10
+
+Bill to: Nordwind Bikes GmbH
+
+Description                         Qty    Unit price    Amount
+Mid-drive motor M500                20      310.00      6200.00
+Battery pack 625Wh                  20      385.00      7700.00
+
+Subtotal: 13900.00 EUR
+VAT 21%: 2919.00 EUR
+Total: 16919.00 EUR
+
+Payment terms: Net 30
+IBAN: NL91 ABNA 0417 1643 00

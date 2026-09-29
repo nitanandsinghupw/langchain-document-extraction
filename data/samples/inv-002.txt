@@ -1,0 +1,20 @@
+Invoice
+-------
+From:    Kettle & Pine Design Ltd, 14 Canal Street, Manchester M1 3HE, United Kingdom
+VAT Reg: GB987654321
+To:      Nordwind Bikes GmbH
+
+Invoice number   KP-7731
+Date of issue    15 August 2025
+Payment due      14 September 2025
+
+Item                                  Quantity   Rate      Line total
+Brand refresh workshop (days)         2          950.00    1900.00
+Packaging design, 3 concepts          1          1450.00   1450.00
+
+Net amount       3350.00
+VAT (20%)        670.00
+Amount due       GBP 4020.00
+
+Terms: payment within 30 days of the invoice date.
+Bank: IBAN GB33 BUKB 2020 1555 5555 55

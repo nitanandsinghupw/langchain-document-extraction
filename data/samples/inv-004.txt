@@ -1,0 +1,22 @@
+SPOKEHAUS LOGISTIK GmbH
+Am Bahnhof 3, 04109 Leipzig, Germany
+VAT ID: DE811569869
+
+INVOICE
+
+Invoice No: SH-2025-112
+Invoice Date: 2025-09-18
+Due Date: 2025-10-18
+
+Bill to: Nordwind Bikes GmbH
+
+Description                         Qty    Unit price    Amount
+Pallet transport Leipzig-Berlin      8      145.00      1160.00
+Storage, pallet-weeks               24       12.50       300.00
+
+Subtotal: 1460.00 EUR
+VAT 19%: 277.40 EUR
+Total: 1737.40 EUR
+
+Payment terms: Net 30
+Please pay to IBAN DE89 3704 0044 0532 0130 01

@@ -1,0 +1,21 @@
+CLEARPATH IT SERVICES AB
+Sveavagen 20, 111 57 Stockholm, Sweden
+VAT ID: SE556677889901
+
+INVOICE
+
+Invoice No: CP-4410
+Invoice Date: 2025-09-25
+
+Bill to: Nordwind Bikes GmbH
+
+Description                         Qty    Unit price    Amount
+Managed laptop service (month)      35       42.00      1470.00
+Helpdesk hours                      12       95.00      1140.00
+
+Subtotal: 2610.00 EUR
+VAT 0% (reverse charge): 0.00 EUR
+Total: 2610.00 EUR
+
+Payment terms: Net 30
+IBAN: SE45 5000 0000 0583 9825 7466

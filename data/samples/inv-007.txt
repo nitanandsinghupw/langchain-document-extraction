@@ -1,0 +1,14 @@
+Invoice #: 2025/0391
+Issued: September 3, 2025          Due: October 3, 2025
+
+Supplier: Alpenrad Parts AG, Bahnhofstrasse 1, 8001 Zurich, Switzerland (VAT: CHE-123.456.789 MWST)
+Customer: Nordwind Bikes GmbH
+
+- Brake pads (box of 50) x 10 @ CHF 38.50 = CHF 385.00
+- Chain lubricant 1L x 20 @ CHF 14.90 = CHF 298.00
+
+Net: CHF 683.00
+VAT 8.1%: CHF 55.32
+TOTAL DUE: CHF 738.32
+
+Payment within 30 days to IBAN CH93 0076 2011 6238 5295 7

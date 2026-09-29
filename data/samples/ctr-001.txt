@@ -1,0 +1,17 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is made between Nordwind Bikes GmbH ("Customer") and Clearpath IT Services AB ("Provider").
+
+1. Services. The Provider will deliver managed laptop and helpdesk services as described in Annex A.
+
+2. Term. This Agreement takes effect on 2025-01-01 and runs for an initial term of 24 months, ending on 2026-12-31.
+
+3. Renewal. After the initial term, the Agreement renews automatically for successive periods of 12 months unless either party gives written notice at least 60 days before the end of the current term.
+
+4. Fees and payment. The Customer will pay the fees in Annex B. Invoices are payable within 30 days.
+
+5. Liability. Each party's total liability under this Agreement is limited to 50,000 EUR.
+
+6. Termination. Either party may terminate this Agreement for material breach with 30 days' written notice.
+
+7. Governing law. This Agreement is governed by the laws of Sweden.
